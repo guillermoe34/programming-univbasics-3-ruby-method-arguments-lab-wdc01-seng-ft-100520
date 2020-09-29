@@ -1,4 +1,4 @@
-def {introducton("guillemro")}
+def {introducton(name=guillemro)}
   puts "Hi, my name is #(name)."
 end
 
